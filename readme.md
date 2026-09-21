@@ -144,10 +144,13 @@ Por fim, conectei:
 * a tela ao Raspberry Pi;
 * e organizei os componentes dentro da carcaça.
 
-Se você quiser ver o passo-a-passo em vídeo, eu disponibilizei no meu [FCanal do Youtube](https://www.youtube.com/@GioYaml)
+Se você quiser ver o passo-a-passo em vídeo, eu disponibilizei no meu [Canal do Youtube](https://www.youtube.com/@GioYaml)
 
 
 Caso queira acompanhar projetos como esse nas minhas redes:
 
 [Instagram](instagram.com/gio.yaml/)
+
+<br>
+
 [Tiktok](https://www.tiktok.com/@gio.yaml)
