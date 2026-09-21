@@ -44,7 +44,7 @@ Teclado Matricial 4x3 - Membrana
 
 Meu objetivo era conectar cada linha e cada coluna aos **GPIOs do Arduino Pro Micro**. (que são esses pininhos circulados na foto abaixo)
 
-![gpio](img/gpio.png)
+<img src="img/gpio.png" alt="GPIO do Arduino" width="420" />
 
 Assim, quando uma tecla fosse pressionada, o Arduino conseguiria identificar quais conexões foram acionadas.
 
@@ -56,7 +56,7 @@ O teclado do Laptop da Xuxa possui uma membrana que termina em um **cabo flat**.
 
 Esse é o cabo flat com as conexões:
 
-![flat](img/flat.jpg)
+<img src="img/flat.jpg" alt="Cabo flat do teclado" width="420" />
 
 Para isso, desparafusei a plaquinha e segui visualmente as trilhas para descobrir onde cada uma delas chegava.
 
@@ -66,7 +66,7 @@ Com isso, descobri quais fios correspondiam às linhas e colunas da matriz e sol
 
 No caso do Laptop da Xuxa, essas são as conexões utilizadas (preenchi as conexoes que usei)
 
-![placa](img/placa.png)
+<img src="img/placa.png" alt="Placa do teclado com conexões" width="420" />
 
 ---
 
