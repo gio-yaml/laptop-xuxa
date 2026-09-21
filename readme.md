@@ -44,7 +44,7 @@ Teclado Matricial 4x3 - Membrana
 
 Meu objetivo era conectar cada linha e cada coluna aos **GPIOs do Arduino Pro Micro**. (que são esses pininhos circulados na foto abaixo)
 
-<img src="img/gpio.png" alt="GPIO do Arduino" width="420" />
+<img src="img/gpio.png" alt="GPIO do Arduino" width="300" />
 
 Assim, quando uma tecla fosse pressionada, o Arduino conseguiria identificar quais conexões foram acionadas.
 
@@ -56,7 +56,7 @@ O teclado do Laptop da Xuxa possui uma membrana que termina em um **cabo flat**.
 
 Esse é o cabo flat com as conexões:
 
-<img src="img/flat.jpg" alt="Cabo flat do teclado" width="420" />
+<img src="img/flat.jpg" alt="Cabo flat do teclado" width="300" />
 
 Para isso, desparafusei a plaquinha e segui visualmente as trilhas para descobrir onde cada uma delas chegava.
 
@@ -66,7 +66,7 @@ Com isso, descobri quais fios correspondiam às linhas e colunas da matriz e sol
 
 No caso do Laptop da Xuxa, essas são as conexões utilizadas (preenchi as conexoes que usei)
 
-<img src="img/placa.png" alt="Placa do teclado com conexões" width="420" />
+<img src="img/placa.png" alt="Placa do teclado com conexões" width="300" />
 
 ---
 
@@ -78,7 +78,7 @@ Usando o software do Arduino, fiz um código para monitorar os GPIOs.
 
 Assim, sempre que eu apertava uma tecla do Laptop da Xuxa, o Arduino mostrava **quais portas do GPIO tinham sido ativadas**.
 
-(link do repositório aqui)
+https://github.com/gio-yaml/Mapeador-de-Matriz-de-Teclado
 
 Deixo aqui o repositório caso você queira fazer algo parecido. No README também deixei o passo a passo.
 
